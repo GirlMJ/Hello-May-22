@@ -10,7 +10,7 @@ st.write("""
 # This is a first-level heading
 ## This is a second-level heading
 """)
-
+This is another text
 st.write(pd.DataFrame({
     'Intplan': ['yes', 'yes', 'yes', 'no'],
     'Churn Status': [0, 0, 0, 1]
